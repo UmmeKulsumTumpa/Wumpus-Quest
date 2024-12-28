@@ -1,10 +1,10 @@
 from enum import Enum
 from typing import List
 import random
-from src.Cell import Cell
-from src.Directions import Direction
-from src.EntityType import EntityType
-from src.Position import Position
+from Cell import Cell
+from Directions import Direction
+from EntityType import EntityType
+from Position import Position
 
 class WumpusWorld:
     def __init__(self, size: int = 10):

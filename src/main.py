@@ -1,4 +1,4 @@
-from src.WumpusQuestGame import WumpusQuestGame
+from WumpusQuestGame import WumpusQuestGame
 
 if __name__ == "__main__":
     game = WumpusQuestGame(10)

@@ -1,8 +1,8 @@
 # Game Controller
-from src.WumpusWorld import WumpusWorld
-from src.Agent import Agent
-from src.EntityType import EntityType
-from src.Position import Position
+from WumpusWorld import WumpusWorld
+from Agent import Agent
+from EntityType import EntityType
+from Position import Position
 
 class WumpusQuestGame:
     def __init__(self, size: int = 10):

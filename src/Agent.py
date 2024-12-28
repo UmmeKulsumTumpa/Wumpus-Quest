@@ -1,9 +1,9 @@
 from typing import List, Optional, Set
 import random
-from src.Directions import Direction
-from src.KnowledgeBase import KnowledgeBase
-from src.Position import Position
-from src.WumpusWorld import WumpusWorld
+from Directions import Direction
+from KnowledgeBase import KnowledgeBase
+from Position import Position
+from WumpusWorld import WumpusWorld
 
 class Agent:
     def __init__(self, world: WumpusWorld):

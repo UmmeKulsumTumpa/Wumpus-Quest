@@ -1,5 +1,5 @@
 from typing import Set
-from src.EntityType import EntityType
+from EntityType import EntityType
 
 class Cell:
     def __init__(self):

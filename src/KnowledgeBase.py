@@ -1,7 +1,7 @@
 from typing import List, Set
-from src.Directions import Direction
-from src.EntityType import EntityType
-from src.Position import Position
+from Directions import Direction
+from EntityType import EntityType
+from Position import Position
 
 class KnowledgeBase:
     def __init__(self, world_size: int):
@@ -10,6 +10,7 @@ class KnowledgeBase:
         self.unsafe_cells: Set[Position] = set()
         self.wumpus_candidates: Set[Position] = set()
         self.pit_candidates: Set[Position] = set()
+        self.visited_positions: Set[Position] = set()
 
     def update_knowledge(self, pos: Position, perceptions: Set[EntityType]):
         self.safe_cells.add(pos)

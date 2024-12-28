@@ -1,5 +1,5 @@
 from enum import Enum
-from src.Position import Position
+from Position import Position
 
 class Direction(Enum):
     NORTH = Position(0, 1)
