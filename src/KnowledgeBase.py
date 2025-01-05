@@ -11,6 +11,7 @@ class KnowledgeBase:
         self.wumpus_candidates: Set[Position] = set()
         self.pit_candidates: Set[Position] = set()
         self.visited_positions: Set[Position] = set()
+        self.visit_count = lambda pos: len([1 for p in self.visited_positions if p == pos])
 
     def update_knowledge(self, pos: Position, perceptions: Set[EntityType]):
         self.safe_cells.add(pos)
@@ -53,3 +54,6 @@ class KnowledgeBase:
 
     def _is_valid_position(self, pos: Position) -> bool:
         return 0 <= pos.x < self.world_size and 0 <= pos.y < self.world_size
+    
+    def increment_visit_count(self, pos: Position):
+        self.visited_positions.add(pos)

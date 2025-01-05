@@ -24,9 +24,11 @@ class Agent:
         safe_moves = self.knowledge_base.get_safe_unvisited_adjacent(self.world.agent_pos)
         
         if safe_moves:
-            # Choose the move that leads to the most promising direction
-            # (This could be enhanced with more sophisticated heuristics)
-            return random.choice(safe_moves)
+            # Choose the move to the least visited cell
+            least_visited_move = min(safe_moves, key=lambda pos: self.knowledge_base.visit_count(pos))
+            self.path_history.append(self.world.agent_pos)
+            self.knowledge_base.increment_visit_count(least_visited_move)
+            return least_visited_move
         
         # If no safe moves are available, try to backtrack
         if self.path_history:
