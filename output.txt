@@ -1,0 +1,5008 @@
+
+=== Starting Game ===
+
+Step 1:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 2:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 3:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 4:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 5:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 6:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 7:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 8:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 9:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 10:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 11:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 12:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 13:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 14:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 15:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 16:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 17:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 18:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 19:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 20:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 21:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 22:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 23:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 24:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 25:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 26:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 27:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 28:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 29:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 30:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 31:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 32:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 33:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 34:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 35:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 36:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 37:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 38:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 39:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 40:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 41:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 42:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 43:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 44:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 45:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 46:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 47:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 48:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 49:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 50:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 51:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 52:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 53:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 54:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 55:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 56:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 57:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 58:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 59:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 60:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 61:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 62:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 63:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 64:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 65:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 66:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 67:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 68:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 69:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 70:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 71:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 72:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 73:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 74:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 75:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 76:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 77:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 78:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 79:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 80:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 81:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 82:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 83:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 84:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 85:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 86:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 87:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 88:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 89:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 90:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 91:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 92:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 93:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 94:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 95:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 96:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 97:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 98:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 99:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 100:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 101:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 102:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 103:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 104:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 105:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 106:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 107:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 108:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 109:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 110:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 111:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 112:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 113:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 114:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 115:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 116:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 117:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 118:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 119:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 120:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 121:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 122:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 123:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 124:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 125:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 126:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 127:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 128:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 129:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 130:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 131:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 132:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 133:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 134:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 135:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 136:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 137:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 138:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 139:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 140:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 141:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 142:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 143:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 144:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 145:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 146:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 147:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 148:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 149:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 150:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 151:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 152:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 153:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 154:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 155:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 156:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 157:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 158:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 159:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 160:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 161:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 162:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 163:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 164:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 165:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 166:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 167:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 168:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 169:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 170:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 171:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 172:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 173:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 174:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 175:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 176:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 177:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 178:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 179:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 180:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 181:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 182:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 183:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 184:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 185:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 186:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 187:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 188:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 189:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 190:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 191:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 192:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 193:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 194:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 195:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 196:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 197:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 198:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 199:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 200:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 201:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 202:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 203:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 204:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 205:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 206:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 207:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 208:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 209:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 210:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 211:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 212:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 213:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 214:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 215:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 216:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 217:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 218:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 219:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 220:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 221:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 222:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 223:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 224:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 225:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 226:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 227:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 228:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 229:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 230:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 231:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 232:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 233:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 234:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 235:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 236:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 237:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 238:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 239:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 240:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 241:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 242:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 243:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 244:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 245:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 246:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 247:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 248:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 249:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 250:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 251:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 252:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 253:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 254:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 255:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 256:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 257:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 258:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 259:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 260:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 261:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 262:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 263:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 264:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 265:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 266:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 267:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 268:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 269:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 270:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 271:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 272:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 273:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 274:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 275:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 276:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 277:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 278:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 279:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 280:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 281:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 282:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 283:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 284:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 285:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 286:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 287:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 288:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 289:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 290:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 291:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 292:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 293:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 294:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 295:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 296:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 297:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 298:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 299:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 300:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 301:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 302:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 303:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 304:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 305:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 306:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 307:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 308:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 309:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 310:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 311:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 312:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 313:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 314:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 315:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 316:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 317:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 318:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 319:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 320:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 321:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 322:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 323:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 324:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 325:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 326:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 327:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 328:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 329:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 330:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 331:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 332:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 333:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 334:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 335:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 336:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 337:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 338:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 339:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 340:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 341:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 342:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 343:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 344:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 345:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 346:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 347:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 348:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 349:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 350:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 351:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 352:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 353:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 354:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 355:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 356:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 357:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 358:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 359:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 360:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 361:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 362:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 363:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 364:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 365:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 366:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 367:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 368:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 369:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 370:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 371:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 372:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 373:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 374:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 375:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 376:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 377:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 378:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 379:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 380:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 381:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 382:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 383:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 384:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 385:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 386:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 387:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 388:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 389:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 390:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 391:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 392:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 393:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 394:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 395:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 396:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 397:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 398:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 399:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 400:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 401:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 402:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 403:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 404:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 405:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 406:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 407:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 408:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 409:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 410:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 411:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 412:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 413:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 414:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 415:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 416:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 417:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 418:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 419:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 420:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 421:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 422:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 423:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 424:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 425:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 426:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 427:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 428:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 429:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 430:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 431:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 432:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 433:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 434:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 435:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 436:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 437:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 438:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 439:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 440:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 441:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 442:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 443:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 444:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 445:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 446:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 447:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 448:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 449:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 450:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 451:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 452:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 453:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 454:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 455:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 456:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 457:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 458:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 459:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 460:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 461:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 462:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 463:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 464:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 465:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 466:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 467:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 468:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 469:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 470:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 471:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 472:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 473:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 474:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 475:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 476:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 477:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 478:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 479:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 480:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 481:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 482:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 483:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 484:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 485:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 486:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 487:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 488:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 489:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 490:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 491:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 492:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 493:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 494:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 495:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 496:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 497:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 498:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 499:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 500:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 501:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 502:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 503:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 504:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 505:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 506:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 507:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 508:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 509:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 510:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 511:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 512:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 513:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 514:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 515:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 516:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 517:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 518:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 519:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 520:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 521:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 522:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 523:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 524:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 525:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 526:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 527:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 528:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 529:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 530:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 531:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 532:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 533:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 534:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 535:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 536:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 537:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 538:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 539:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 540:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 541:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 542:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 543:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 544:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 545:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 546:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 547:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 548:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 549:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 550:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 551:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 552:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 553:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 554:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 555:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 556:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 557:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 558:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 559:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 560:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 561:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 562:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 563:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 564:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 565:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 566:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 567:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 568:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 569:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 570:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 571:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 572:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 573:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 574:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 575:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 576:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 577:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 578:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 579:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 580:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 581:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 582:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 583:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 584:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 585:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 586:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 587:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 588:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 589:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 590:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 591:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 592:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 593:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 594:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 595:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 596:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 597:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 598:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 599:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 600:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 601:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 602:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 603:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 604:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 605:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 606:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 607:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 608:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 609:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 610:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 611:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 612:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 613:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 614:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 615:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 616:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 617:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 618:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 619:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 620:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 621:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 622:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 623:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 624:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 625:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 626:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 627:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 628:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 629:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 630:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 631:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 632:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 633:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 634:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 635:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 636:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 637:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 638:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 639:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 640:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 641:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 642:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 643:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 644:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 645:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 646:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 647:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 648:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 649:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 650:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 651:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 652:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 653:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 654:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 655:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 656:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 657:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 658:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 659:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 660:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 661:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 662:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 663:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 664:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 665:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 666:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 667:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 668:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 669:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 670:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 671:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 672:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 673:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 674:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 675:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 676:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 677:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 678:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 679:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 680:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 681:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 682:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 683:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 684:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 685:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 686:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 687:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 688:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 689:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 690:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 691:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 692:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 693:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 694:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 695:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 696:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 697:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 698:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 699:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 700:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 701:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 702:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 703:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 704:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 705:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 706:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 707:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 708:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 709:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 710:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 711:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 712:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 713:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 714:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 715:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 716:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 717:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 718:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 719:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 720:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 721:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 722:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 723:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 724:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 725:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 726:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 727:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 728:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 729:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 730:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 731:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 732:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 733:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 734:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 735:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 736:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 737:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 738:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 739:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 740:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 741:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 742:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 743:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 744:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 745:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 746:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 747:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 748:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 749:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 750:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 751:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 752:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 753:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 754:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 755:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 756:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 757:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 758:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 759:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 760:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 761:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 762:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 763:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 764:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 765:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 766:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 767:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 768:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 769:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 770:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 771:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 772:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 773:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 774:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 775:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 776:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 777:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 778:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 779:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 780:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 781:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 782:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 783:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 784:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 785:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 786:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 787:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 788:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 789:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 790:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 791:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 792:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 793:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 794:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 795:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 796:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 797:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 798:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 799:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 800:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 801:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 802:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 803:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 804:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 805:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 806:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 807:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 808:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 809:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 810:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 811:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 812:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 813:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 814:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 815:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 816:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 817:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 818:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 819:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 820:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 821:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 822:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 823:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 824:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 825:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 826:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 827:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 828:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 829:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 830:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 831:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 832:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 833:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 834:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 835:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 836:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 837:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 838:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 839:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 840:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 841:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 842:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 843:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 844:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 845:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 846:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 847:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 848:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 849:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 850:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 851:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 852:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 853:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 854:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 855:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 856:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 857:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 858:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 859:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 860:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 861:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 862:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 863:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 864:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 865:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 866:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 867:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 868:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 869:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 870:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 871:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 872:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 873:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 874:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 875:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 876:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 877:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 878:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 879:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 880:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 881:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 882:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 883:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 884:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 885:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 886:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 887:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 888:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 889:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 890:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 891:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 892:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 893:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 894:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 895:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 896:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 897:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 898:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 899:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 900:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 901:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 902:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 903:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 904:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 905:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 906:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 907:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 908:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 909:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 910:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 911:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 912:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 913:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 914:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 915:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 916:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 917:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 918:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 919:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 920:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 921:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 922:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 923:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 924:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 925:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 926:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 927:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 928:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 929:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 930:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 931:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 932:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 933:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 934:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 935:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 936:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 937:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 938:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 939:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 940:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 941:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 942:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 943:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 944:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 945:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 946:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 947:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 948:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 949:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 950:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 951:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 952:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 953:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 954:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 955:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 956:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 957:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 958:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 959:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 960:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 961:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 962:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 963:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 964:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 965:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 966:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 967:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 968:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 969:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 970:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 971:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 972:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 973:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 974:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 975:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 976:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 977:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 978:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 979:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 980:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 981:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 982:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 983:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 984:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 985:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 986:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 987:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 988:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 989:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 990:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 991:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 992:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 993:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 994:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 995:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 996:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 997:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 998:
+Agent Position: (2, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 999:
+Agent Position: (1, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 1000:
+Agent Position: (1, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+=== Game Over ===
+Total Steps: 1000
+Final Score: -1000
+Has Gold: False
+Agent Alive: TrueGame finished! Score: -1000, Has Gold: False, Agent Alive: True
