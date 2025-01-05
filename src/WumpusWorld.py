@@ -45,6 +45,20 @@ class WumpusWorld:
                 self.grid[x][y].add_entity(EntityType.GLITTER)
                 break
 
+    def initialize_world_from_file(self, file_path: str):
+        with open(file_path, "r") as f:
+            for y, line in enumerate(f):
+                for x, char in enumerate(line.strip().split()):
+                    if char == 'P':
+                        self.grid[y][x].add_entity(EntityType.PIT)
+                        self._add_perception_around(Position(y, x), EntityType.BREEZE)
+                    elif char == 'W':
+                        self.grid[y][x].add_entity(EntityType.WUMPUS)
+                        self._add_perception_around(Position(y, x), EntityType.STENCH)
+                    elif char == 'G':
+                        self.grid[y][x].add_entity(EntityType.GOLD)
+                        self.grid[y][x].add_entity(EntityType.GLITTER)
+
     def _add_perception_around(self, pos: Position, perception: EntityType):
         for direction in Direction:
             new_pos = pos + direction.value

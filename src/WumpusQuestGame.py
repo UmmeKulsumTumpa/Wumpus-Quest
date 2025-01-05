@@ -9,9 +9,13 @@ class WumpusQuestGame:
         self.world = WumpusWorld(size)
         self.agent = Agent(self.world)
 
-    def initialize_game(self):
+    def initialize_game_random(self):
         self.world.initialize_random_world()
         print("Game initialized with random world")
+
+    def initialize_game_from_file(self, file_path: str):
+        self.world.initialize_world_from_file(file_path)
+        print("Game initialized with world from file")
 
     def print_world(self):
         print("\n=== Current World ===")
