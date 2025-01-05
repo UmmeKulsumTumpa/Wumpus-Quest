@@ -72,7 +72,7 @@ class WumpusQuestGame:
                 
                 self.world.score -= 1  # Cost for each move
             else:
-                f.write("\Alas! No safe moves available!")
+                f.write("\n\nAlas! No safe moves available!")
                 break
             
             step += 1

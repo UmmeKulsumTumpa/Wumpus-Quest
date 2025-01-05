@@ -4,214 +4,332 @@
 Step 1:
 Agent Position: (1, 1)
 Agent perceives: Nothing
-Agent moves: EAST
+Agent moves: NORTH
 
 Step 2:
-Agent Position: (2, 1)
+Agent Position: (1, 2)
 Agent perceives: Nothing
 Agent moves: EAST
 
 Step 3:
-Agent Position: (3, 1)
-Agent perceives: Nothing
-Agent moves: EAST
+Agent Position: (2, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
 
 Step 4:
-Agent Position: (4, 1)
+Agent Position: (2, 1)
 Agent perceives: Nothing
 Agent moves: EAST
 
 Step 5:
-Agent Position: (5, 1)
+Agent Position: (3, 1)
 Agent perceives: Nothing
-Agent moves: EAST
+Agent moves: NORTH
 
 Step 6:
-Agent Position: (6, 1)
-Agent perceives: Nothing
-Agent moves: EAST
-
-Step 7:
-Agent Position: (7, 1)
-Agent perceives: Nothing
-Agent moves: EAST
-
-Step 8:
-Agent Position: (8, 1)
-Agent perceives: BREEZE
-Agent moves: WEST
-
-Step 9:
-Agent Position: (7, 1)
-Agent perceives: Nothing
-Agent moves: NORTH
-
-Step 10:
-Agent Position: (7, 2)
-Agent perceives: BREEZE
-Agent moves: WEST
-
-Step 11:
-Agent Position: (6, 2)
-Agent perceives: Nothing
-Agent moves: NORTH
-
-Step 12:
-Agent Position: (6, 3)
-Agent perceives: Nothing
-Agent moves: WEST
-
-Step 13:
-Agent Position: (5, 3)
-Agent perceives: BREEZE
-Agent moves: EAST
-
-Step 14:
-Agent Position: (6, 3)
-Agent perceives: Nothing
-Agent moves: EAST
-
-Step 15:
-Agent Position: (7, 3)
-Agent perceives: BREEZE
-Agent moves: WEST
-
-Step 16:
-Agent Position: (6, 3)
-Agent perceives: Nothing
-Agent moves: NORTH
-
-Step 17:
-Agent Position: (6, 4)
-Agent perceives: BREEZE
-Agent moves: SOUTH
-
-Step 18:
-Agent Position: (6, 3)
-Agent perceives: Nothing
-Agent moves: SOUTH
-
-Step 19:
-Agent Position: (6, 2)
-Agent perceives: Nothing
-Agent moves: WEST
-
-Step 20:
-Agent Position: (5, 2)
-Agent perceives: Nothing
-Agent moves: WEST
-
-Step 21:
-Agent Position: (4, 2)
-Agent perceives: BREEZE
-Agent moves: WEST
-
-Step 22:
 Agent Position: (3, 2)
 Agent perceives: Nothing
 Agent moves: NORTH
 
-Step 23:
+Step 7:
 Agent Position: (3, 3)
 Agent perceives: BREEZE
 Agent moves: SOUTH
 
-Step 24:
+Step 8:
 Agent Position: (3, 2)
 Agent perceives: Nothing
+Agent moves: EAST
+
+Step 9:
+Agent Position: (4, 2)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 10:
+Agent Position: (4, 3)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 11:
+Agent Position: (5, 3)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 12:
+Agent Position: (5, 4)
+Agent perceives: BREEZE
 Agent moves: WEST
+
+Step 13:
+Agent Position: (4, 4)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 14:
+Agent Position: (4, 5)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 15:
+Agent Position: (5, 5)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 16:
+Agent Position: (6, 5)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 17:
+Agent Position: (5, 5)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 18:
+Agent Position: (5, 6)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 19:
+Agent Position: (6, 6)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 20:
+Agent Position: (7, 6)
+Agent perceives: Nothing
+Agent moves: SOUTH
+
+Step 21:
+Agent Position: (7, 5)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 22:
+Agent Position: (8, 5)
+Agent perceives: Nothing
+Agent moves: SOUTH
+
+Step 23:
+Agent Position: (8, 4)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 24:
+Agent Position: (7, 4)
+Agent perceives: BREEZE
+Agent moves: NORTH
 
 Step 25:
-Agent Position: (2, 2)
+Agent Position: (7, 5)
 Agent perceives: Nothing
-Agent moves: NORTH
+Agent moves: EAST
 
 Step 26:
-Agent Position: (2, 3)
+Agent Position: (8, 5)
 Agent perceives: Nothing
-Agent moves: WEST
+Agent moves: EAST
 
 Step 27:
-Agent Position: (1, 3)
-Agent perceives: Nothing
-Agent moves: NORTH
+Agent Position: (9, 5)
+Agent perceives: BREEZE
+Agent moves: WEST
 
 Step 28:
-Agent Position: (1, 4)
+Agent Position: (8, 5)
 Agent perceives: Nothing
 Agent moves: NORTH
 
 Step 29:
-Agent Position: (1, 5)
-Agent perceives: Nothing
-Agent moves: EAST
-
-Step 30:
-Agent Position: (2, 5)
-Agent perceives: Nothing
-Agent moves: EAST
-
-Step 31:
-Agent Position: (3, 5)
-Agent perceives: BREEZE
-Agent moves: WEST
-
-Step 32:
-Agent Position: (2, 5)
+Agent Position: (8, 6)
 Agent perceives: Nothing
 Agent moves: NORTH
 
-Step 33:
-Agent Position: (2, 6)
+Step 30:
+Agent Position: (8, 7)
 Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 31:
+Agent Position: (7, 7)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 32:
+Agent Position: (7, 8)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 33:
+Agent Position: (7, 7)
+Agent perceives: Nothing
 Agent moves: WEST
 
 Step 34:
-Agent Position: (1, 6)
+Agent Position: (6, 7)
+Agent perceives: Nothing
+Agent moves: WEST
+
+Step 35:
+Agent Position: (5, 7)
 Agent perceives: Nothing
 Agent moves: NORTH
 
-Step 35:
-Agent Position: (1, 7)
-Agent perceives: BREEZE
-Agent moves: SOUTH
-
 Step 36:
-Agent Position: (1, 6)
-Agent perceives: Nothing
-Agent moves: SOUTH
-
-Step 37:
-Agent Position: (1, 5)
-Agent perceives: Nothing
-Agent moves: SOUTH
-
-Step 38:
-Agent Position: (1, 4)
-Agent perceives: Nothing
+Agent Position: (5, 8)
+Agent perceives: BREEZE
 Agent moves: EAST
 
-Step 39:
-Agent Position: (2, 4)
+Step 37:
+Agent Position: (6, 8)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 38:
+Agent Position: (6, 9)
 Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 39:
+Agent Position: (6, 8)
+Agent perceives: Nothing
 Agent moves: SOUTH
 
 Step 40:
-Agent Position: (2, 3)
+Agent Position: (6, 7)
 Agent perceives: Nothing
 Agent moves: SOUTH
 
 Step 41:
-Agent Position: (2, 2)
+Agent Position: (6, 6)
+Agent perceives: Nothing
+Agent moves: SOUTH
+
+Step 42:
+Agent Position: (6, 5)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 43:
+Agent Position: (5, 5)
+Agent perceives: Nothing
+Agent moves: SOUTH
+
+Step 44:
+Agent Position: (5, 4)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 45:
+Agent Position: (5, 3)
+Agent perceives: Nothing
+Agent moves: SOUTH
+
+Step 46:
+Agent Position: (5, 2)
+Agent perceives: Nothing
+Agent moves: SOUTH
+
+Step 47:
+Agent Position: (5, 1)
 Agent perceives: Nothing
 Agent moves: WEST
 
-Step 42:
-Agent Position: (1, 2)
-Agent perceives: Nothing\Alas! No safe moves available!
+Step 48:
+Agent Position: (4, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 49:
+Agent Position: (5, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 50:
+Agent Position: (6, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 51:
+Agent Position: (6, 2)
+Agent perceives: BREEZE
+Agent moves: NORTH
+
+Step 52:
+Agent Position: (6, 3)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 53:
+Agent Position: (6, 2)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 54:
+Agent Position: (6, 1)
+Agent perceives: Nothing
+Agent moves: EAST
+
+Step 55:
+Agent Position: (7, 1)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 56:
+Agent Position: (6, 1)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 57:
+Agent Position: (6, 2)
+Agent perceives: BREEZE
+Agent moves: NORTH
+
+Step 58:
+Agent Position: (6, 3)
+Agent perceives: BREEZE
+Agent moves: SOUTH
+
+Step 59:
+Agent Position: (6, 2)
+Agent perceives: BREEZE
+Agent moves: NORTH
+
+Step 60:
+Agent Position: (6, 3)
+Agent perceives: BREEZE
+Agent moves: WEST
+
+Step 61:
+Agent Position: (5, 3)
+Agent perceives: Nothing
+Agent moves: NORTH
+
+Step 62:
+Agent Position: (5, 4)
+Agent perceives: BREEZE
+Agent moves: NORTH
+
+Step 63:
+Agent Position: (5, 5)
+Agent perceives: Nothing
+Agent moves: WEST
+
+Step 64:
+Agent Position: (4, 5)
+Agent perceives: Nothing
+Agent moves: WEST
+
+Step 65:
+Agent Position: (3, 5)
+Agent perceives: GOLD, GLITTER
+
+Hurrah! Gold found! Game won!
 
 === Game Over ===
-Total Steps: 41
-Final Score: -41
-Has Gold: False
-Agent Alive: TrueGame finished! Score: -41, Has Gold: False, Agent Alive: True
+Total Steps: 64
+Final Score: 936
+Has Gold: True
+Agent Alive: True
+Game finished! Score: 936, Has Gold: True, Agent Alive: True
