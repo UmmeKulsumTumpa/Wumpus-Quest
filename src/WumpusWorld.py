@@ -45,6 +45,19 @@ class WumpusWorld:
                 self.grid[x][y].add_entity(EntityType.GLITTER)
                 break
 
+    def print_world(self):
+        for row in self.grid:
+            for cell in row:
+                if EntityType.PIT in cell.entities:
+                    print("P", end=" ")
+                elif EntityType.WUMPUS in cell.entities:
+                    print("W", end=" ")
+                elif EntityType.GOLD in cell.entities:
+                    print("G", end=" ")
+                else:
+                    print("-", end=" ")
+            print()
+
     def _add_perception_around(self, pos: Position, perception: EntityType):
         for direction in Direction:
             new_pos = pos + direction.value
